@@ -1,4 +1,4 @@
 Project Logbook
 This project investigates the use of generative AI tools in research.
 The repository is used to organise research materials and project files.
-GitHub is used for version control and team collaboration.
+GitHub is used for version control and team collaboration.12122121
